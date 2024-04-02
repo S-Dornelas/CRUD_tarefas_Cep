@@ -1,9 +1,11 @@
 ﻿using AppCRUD.Models;
 using AppCRUD.Repositorios.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AppCRUD.Controllers
-{    
+{
+    [Authorize]
     public class TarefaController : ControllerBase
     {        
         private readonly ITarefaRepositorio _tarefaRepositorio;

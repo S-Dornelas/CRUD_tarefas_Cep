@@ -25,6 +25,3 @@ A documentação da API está disponível aqui, incluindo informações sobre to
 
 Se deseja contribuir para o projeto, siga as diretrizes de contribuição aqui. Fique à vontade para abrir problemas (issues) ou enviar pull requests com melhorias.
 
-## Contato
-
-Para mais informações ou suporte, entre em contato através do e-mail seu_email ou abra um problema (issue) no GitHub.
